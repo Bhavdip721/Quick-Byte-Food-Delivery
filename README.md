@@ -564,18 +564,8 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ---
 
-## 👨‍💻 Author
 
-<div align="center">
 
-**Harsh Jivani**
-
-[![GitHub](https://img.shields.io/badge/GitHub-harsh8104-181717?style=for-the-badge&logo=github)](https://github.com/harsh8104)
-[![Project](https://img.shields.io/badge/Project-QuickByte-FF6B6B?style=for-the-badge&logo=github)](https://github.com/harsh8104/Full-Stack)
-
-</div>
-
----
 
 ## 🙏 Acknowledgments
 

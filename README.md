@@ -590,10 +590,8 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ---
 
-<div align="center">
 
-### ⭐ **Star this repository if you found it helpful!**
 
-**Made with ❤️ by [Harsh Jivani](https://github.com/harsh8104)**
 
-</div>
+
+
